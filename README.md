@@ -20,7 +20,7 @@
 <hr />
 
 ## Our Mission
-We build a youth-focused innovation ecosystem where talented young people gain **skills, mentorship, and resources** to create **impactful solutions** and **sustainable livelihoods**—powered by emerging technologies and community needs.
+We build a youth-focused innovation ecosystem where talented young people gain **skills, mentorship, and resources** to create **impactful solutions** and **sustainable livelihoods** powered by emerging technologies and community needs.
 
 ---
 
